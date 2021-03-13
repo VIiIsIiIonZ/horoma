@@ -22,18 +22,18 @@ export default function App() {
                 <nav>
                     <ul>
                         <li>
-                            <Link to="/horoma/">Home</Link>
+                            <Link to="/">Home</Link>
                         </li>
                         <li>
-                            <Link to="/horoma/about">About</Link>
+                            <Link to="/about">About</Link>
                         </li>
                         <li>
-                            <Link to="/horoma/user">Users</Link>
+                            <Link to="/user">Users</Link>
                         </li>
                     </ul>
                 </nav>
                 <Switch>
-                    <Route path="/horoma/about">
+                    <Route path="/about">
                         <About />
                     </Route>
                     <Route path="/horoma/user">
