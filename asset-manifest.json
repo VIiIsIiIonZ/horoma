@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/horoma/static/css/main.7870323a.chunk.css",
-    "main.js": "/horoma/static/js/main.45f0c0ac.chunk.js",
-    "main.js.map": "/horoma/static/js/main.45f0c0ac.chunk.js.map",
+    "main.js": "/horoma/static/js/main.336c8083.chunk.js",
+    "main.js.map": "/horoma/static/js/main.336c8083.chunk.js.map",
     "runtime-main.js": "/horoma/static/js/runtime-main.e291989f.js",
     "runtime-main.js.map": "/horoma/static/js/runtime-main.e291989f.js.map",
     "static/js/2.454f3146.chunk.js": "/horoma/static/js/2.454f3146.chunk.js",
@@ -17,6 +17,6 @@
     "static/js/runtime-main.e291989f.js",
     "static/js/2.454f3146.chunk.js",
     "static/css/main.7870323a.chunk.css",
-    "static/js/main.45f0c0ac.chunk.js"
+    "static/js/main.336c8083.chunk.js"
   ]
 }
