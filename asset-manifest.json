@@ -1,22 +1,22 @@
 {
   "files": {
     "main.css": "/horoma/static/css/main.7870323a.chunk.css",
-    "main.js": "/horoma/static/js/main.336c8083.chunk.js",
-    "main.js.map": "/horoma/static/js/main.336c8083.chunk.js.map",
-    "runtime-main.js": "/horoma/static/js/runtime-main.e291989f.js",
-    "runtime-main.js.map": "/horoma/static/js/runtime-main.e291989f.js.map",
-    "static/js/2.454f3146.chunk.js": "/horoma/static/js/2.454f3146.chunk.js",
-    "static/js/2.454f3146.chunk.js.map": "/horoma/static/js/2.454f3146.chunk.js.map",
-    "static/js/3.d4ebe57f.chunk.js": "/horoma/static/js/3.d4ebe57f.chunk.js",
-    "static/js/3.d4ebe57f.chunk.js.map": "/horoma/static/js/3.d4ebe57f.chunk.js.map",
+    "main.js": "/horoma/static/js/main.4bb349d0.chunk.js",
+    "main.js.map": "/horoma/static/js/main.4bb349d0.chunk.js.map",
+    "runtime-main.js": "/horoma/static/js/runtime-main.6e6a1e8f.js",
+    "runtime-main.js.map": "/horoma/static/js/runtime-main.6e6a1e8f.js.map",
+    "static/js/2.7c6fb900.chunk.js": "/horoma/static/js/2.7c6fb900.chunk.js",
+    "static/js/2.7c6fb900.chunk.js.map": "/horoma/static/js/2.7c6fb900.chunk.js.map",
+    "static/js/3.13cc2d89.chunk.js": "/horoma/static/js/3.13cc2d89.chunk.js",
+    "static/js/3.13cc2d89.chunk.js.map": "/horoma/static/js/3.13cc2d89.chunk.js.map",
     "index.html": "/horoma/index.html",
     "static/css/main.7870323a.chunk.css.map": "/horoma/static/css/main.7870323a.chunk.css.map",
-    "static/js/2.454f3146.chunk.js.LICENSE.txt": "/horoma/static/js/2.454f3146.chunk.js.LICENSE.txt"
+    "static/js/2.7c6fb900.chunk.js.LICENSE.txt": "/horoma/static/js/2.7c6fb900.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.e291989f.js",
-    "static/js/2.454f3146.chunk.js",
+    "static/js/runtime-main.6e6a1e8f.js",
+    "static/js/2.7c6fb900.chunk.js",
     "static/css/main.7870323a.chunk.css",
-    "static/js/main.336c8083.chunk.js"
+    "static/js/main.4bb349d0.chunk.js"
   ]
 }
